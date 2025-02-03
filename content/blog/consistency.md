@@ -10,7 +10,7 @@ theme = "hugo-blog-awesome"
 
 
 {{< figure
-src="/avatar.jpg"
+src="/Consistency.jpg"
 alt="A photograph of Zion National Park"
 link="https://www.nps.gov/zion/index.htm"
 caption="Consistency"
