@@ -1,0 +1,77 @@
+baseURL = 'https://oluwafemiadeyemo.com/'
+languageCode = 'en-us'
+title = 'Oluwafemi Adeyemo'
+theme = 'hugo-blog-awesome-main'
+defaultContentLanguage = "en-gb"
+ignoreLogs = ['additional-script-loading-error']
+
+[Languages.en-gb]
+  languageName = "English"
+  languageCode = "en-gb"
+  #contentDir = "content/en"
+  weight = 1
+
+  [Languages.en-gb.menu]
+  [[Languages.en-gb.menu.main]]
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[Languages.en-gb.menu.main]]
+    pageRef="posts"
+    name = 'Posts'
+    url = '/blog/'
+    weight = 20
+  [[Languages.en-gb.menu.main]]
+    pageRef="about"
+    name = 'About'
+    url = '/about-me/'
+    weight = 30
+
+[Languages.en-gb.params]
+  sitename = "Awesome hugo blog"
+  defaultColor = "dark" # set color mode: dark, light, auto
+  # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
+  # the default value is set to 'auto'.
+  # You can take a look at layouts/index.html for more information.
+  description = "Minimal Hugo blog theme with light and dark mode support"
+  #mainSections = ['posts']
+  toc = false # set to false to disable table of contents 'globally'
+  tocOpen = false # set to true to open table of contents by default
+  goToTop = true # set to false to disable 'go to top' button
+  additionalScripts = ['js/custom.js', 'js/custom-2.js']
+  # Will try to load 'assets/js/custom.js' and 'assets/js/custom-2.js'.
+  # Your custom scripts will be concatenated to one file `custom.js`.
+  # When building for production it will be minified.
+  # The file `custom.js` is loaded on each page (before body tag ends).
+  dateFormat = "" # date format used to show dates on various pages. If nothing is specified, then "2 Jan 2006" format is used.
+  # See https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference for available date formats.
+  rssFeedDescription = "summary" # available options: 1) summary 2) full
+  # summary - includes a short summary of the blog post in the RSS feed. Generated using Hugo .Summary .
+  # full - includes full blog post in the RSS feed. Generated using Hugo .Content .
+  # By default (or if nothing is specified), summary is used.
+
+[Languages.en-gb.params.author]
+  avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
+  # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
+  intro = "Oluwafemi John Adeyemo"
+  name = "Oluwafemi Adeyemo"
+  description = " I am a solution-minded data scientist with a solid understanding of end-to-end data science best practices and love to crunch data and analyze both spatial and non-spatial data for actionable insights."
+
+# Allow to override `browserconfig.xml` params (configuration for windows embedded browsers)
+[params.browserconfig]
+  TileColor = "#2d89ef" # default windows 10 blue tile color
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/hugo-sid"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "/index.xml"
