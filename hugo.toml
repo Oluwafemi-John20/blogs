@@ -1,4 +1,4 @@
-baseURL = 'https://oluwafemiadeyemo.com/'
+baseURL = 'https://oluwafemiadeyemo.netlify.app/'
 languageCode = 'en-us'
 title = 'Oluwafemi Adeyemo'
 theme = 'hugo-blog-awesome-main'
