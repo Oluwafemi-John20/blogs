@@ -6,15 +6,28 @@
     <description>Recent content on Oluwafemi Adeyemo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 24 Jan 2025 09:30:15 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Apr 2025 11:44:42 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Oluwafemi Adeyemo</title>
-      <link>http://localhost:1313/about-me/</link>
-      <pubDate>Fri, 24 Jan 2025 09:30:15 +0100</pubDate>
+      <title>Enjoying the Run</title>
+      <link>http://localhost:1313/blog/enjoying-the-process/</link>
+      <pubDate>Tue, 01 Apr 2025 11:44:42 +0100</pubDate>
       
-      <guid>http://localhost:1313/about-me/</guid>
+      <guid>http://localhost:1313/blog/enjoying-the-process/</guid>
       
-      <description>&lt;p&gt;I am a solution-minded data scientist with a solid understanding of end-to-end data science best practices and love to crunch data and analyze both spatial and non-spatial data for actionable insights.  I am proficient in the use of Python, SQL, PowerBI, Microsoft Excel, Safe FME, ArcGIS, and QGIS among others. Looking for opportunities to learn and build a career by working with organizations leveraging advanced technology  and innovation that impact lives positively across a wide range of industries.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I remember an evening in school when I was taking a walk with a friend. As we talked about life, he said something that stuck with me: &amp;ldquo;The journey is more important than the destination.&amp;rdquo; At first, I disagreed. Like many people, I believed success was defined by reaching our targets—by getting the degree, landing the job, or hitting financial milestones. The destination seemed like the ultimate goal.&lt;/p&gt;
+&lt;p&gt;But over time, I realized how easy it is to become so fixated on where we want to be that we completely overlook the beauty of the process. The struggles, the small wins, the unexpected detours—all of these shape our experiences and, ultimately, our growth. Yet, we often see them as mere obstacles rather than moments to appreciate.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Balance</title>
+      <link>http://localhost:1313/blog/balance/</link>
+      <pubDate>Mon, 17 Feb 2025 06:49:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/balance/</guid>
+      
+      <description>&lt;p&gt;One of the most valuable things we can build in life is ourselves—our careers, our bodies, our spiritual strength, and our financial stability. Striving for growth is admirable, and being laser-focused on improvement can lead to great achievements. However, in our pursuit of progress, we often overlook a crucial factor: balance.&lt;/p&gt;
+&lt;p&gt;A moment that made this lesson crystal clear to me was an evening out with friends a few months ago. We went bowling, and to my surprise, I started strong—knocking down all the pins in two attempts. Naturally, I became fixated on getting a strike because, why not aim for perfection? But as the game progressed, I increased the speed of the ball, thinking that was the right move. To my astonishment, my scores got worse.&lt;/p&gt;</description>
       
     </item>
     
@@ -54,27 +67,13 @@
       
       <guid>http://localhost:1313/blog/consistency/</guid>
       
-      <description>&lt;figure&gt;&lt;a href=&#34;https://www.nps.gov/zion/index.htm&#34;&gt;&lt;img src=&#34;http://localhost:1313/avatar.jpg&#34;
-    alt=&#34;A photograph of Zion National Park&#34; width=&#34;300&#34; height=&#34;300&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;
-      &lt;p&gt;Consistency&lt;/p&gt;
-    &lt;/figcaption&gt;
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/Consistency.jpg&#34; width=&#34;300&#34; height=&#34;300&#34;&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;&lt;strong&gt;Holla Friend!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;C&amp;rsquo;mon, it’s you! Yes, You!&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;A few weeks into the year 2025, how is it going? Has any goal been achieved yet?
 Most people like myself are falling short of some of the desired habits and plans for the month. As the year started, I planned to read a chapter every day for the year – well, I have read 11 chapters this year which is far less than 23 (date of writing). This makes me wonder why consistency is an issue for most individuals.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Home_sceen</title>
-      <link>http://localhost:1313/home_sceen/</link>
-      <pubDate>Fri, 24 Jan 2025 02:14:55 +0100</pubDate>
-      
-      <guid>http://localhost:1313/home_sceen/</guid>
-      
-      <description>&lt;p&gt;This is the home page&lt;/p&gt;</description>
       
     </item>
     

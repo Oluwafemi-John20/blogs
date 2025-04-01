@@ -1,8 +1,12 @@
 +++
 date = '2025-04-01T11:44:42+01:00'
-draft = true
 title = 'Enjoying the Run'
 author = "Oluwafemi Adeyemo"
+theme = "hugo-blog-awesome"
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    mood = "moods"
 +++
 
 I remember an evening in school when I was taking a walk with a friend. As we talked about life, he said something that stuck with me: "The journey is more important than the destination." At first, I disagreed. Like many people, I believed success was defined by reaching our targets—by getting the degree, landing the job, or hitting financial milestones. The destination seemed like the ultimate goal.
