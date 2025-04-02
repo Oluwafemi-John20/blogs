@@ -9,6 +9,14 @@ theme = "hugo-blog-awesome"
     mood = "moods"
 +++
 
+{{< figure
+src="/Enjoy the run.jpg"
+
+height=300
+width=300
+align=center
+>}}
+
 I remember an evening in school when I was taking a walk with a friend. As we talked about life, he said something that stuck with me: "The journey is more important than the destination." At first, I disagreed. Like many people, I believed success was defined by reaching our targets—by getting the degree, landing the job, or hitting financial milestones. The destination seemed like the ultimate goal.
 
 But over time, I realized how easy it is to become so fixated on where we want to be that we completely overlook the beauty of the process. The struggles, the small wins, the unexpected detours—all of these shape our experiences and, ultimately, our growth. Yet, we often see them as mere obstacles rather than moments to appreciate.
