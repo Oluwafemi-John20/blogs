@@ -30,7 +30,7 @@ The truth is, no single achievement will magically bring lasting fulfillment. Wh
 
 How to Enjoy the Journey More
 
-One profound realization that changed my perspective is *You are already what you’re looking for*. The feelings we associate with success—happiness, contentment, confidence—are not waiting for us at the finish line. They already exist within us.
+One profound realization that changed my perspective is "You are already what you’re looking for". The feelings we associate with success—happiness, contentment, confidence—are not waiting for us at the finish line. They already exist within us.
 
 A book I once read on memory management and confidence-building explained the importance of depositing and withdrawing only positive memories. This made me realize that we choose how we feel. We can choose to enjoy the challenges along the way instead of seeing them as obstacles.
 
