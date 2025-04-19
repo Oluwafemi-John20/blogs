@@ -1,6 +1,5 @@
 +++
 date = '2025-04-19T15:10:20+01:00'
-draft = true
 title = 'The Lost Art of Argument'
 author = "Oluwafemi Adeyemo"
 +++
