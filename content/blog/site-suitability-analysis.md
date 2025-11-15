@@ -36,9 +36,9 @@ A **weighted overlay** of the above parameters produced the resulting site suita
 
 Results and Conclusion
 
-![Figure 4.13 Groundwater Potential Map](Pharmacies1.jpg)
+![Figure 4.13 Groundwater Potential Map](/blog/Pharmacies1.jpg)
 
-![Figure 4.13 Groundwater Potential Map](Pharmacies2.jpg)
+![Figure 4.13 Groundwater Potential Map](/blog/Pharmacies2.jpg)
 
 # Conclusion
 
