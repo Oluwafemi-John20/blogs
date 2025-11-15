@@ -64,14 +64,18 @@ ignoreLogs = ['additional-script-loading-error']
 [params.browserconfig]
   TileColor = "#2d89ef" # default windows 10 blue tile color
 
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/hugo-sid"
+[params]
+  customCSS = ["css/custom.css"]
 
-[[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/hugo-sid"
 
-[[params.socialIcons]]
-name = "Rss"
-url = "/index.xml"
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com"
+
+  [[params.socialIcons]]
+  name = "Rss"
+  url = "/index.xml"
+

@@ -6,7 +6,56 @@
     <description>Recent content on Oluwafemi Adeyemo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 01 Apr 2025 11:44:42 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Nov 2025 15:40:11 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio Management Dashboard</title>
+      <link>http://localhost:1313/blog/portfolio-management/</link>
+      <pubDate>Sat, 15 Nov 2025 15:40:11 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/portfolio-management/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pharmacy Site Suitability Analysis</title>
+      <link>http://localhost:1313/blog/site-suitability-analysis/</link>
+      <pubDate>Sat, 15 Nov 2025 14:33:50 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/site-suitability-analysis/</guid>
+      
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Access to essential health services, including pharmacies and hospitals, is a critical aspect of urban planning and public health. In rapidly developing urban areas, such as Gwarinpa in Abuja, the distribution of health-related infrastructure can significantly influence the well-being of residents. Identifying suitable locations for new health facilities and pharmacies ensures that communities have equitable access to healthcare services while optimizing urban space.&lt;/p&gt;
+&lt;p&gt;This project aims to assess the suitability of different areas within Gwarinpa for potential health service expansion. Using geospatial analysis techniques, factors such as building footprint density, proximity to road networks, proximity to existing pharmacies, and distance to health facilities were evaluated. By applying a weighted overlay approach, the study produces a site suitability map that highlights the most appropriate locations for new health services, supporting informed decision-making for urban planners and policymakers.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Groundwater Exploration Using GIS</title>
+      <link>http://localhost:1313/blog/groundwater-exploration-gis/</link>
+      <pubDate>Fri, 05 Sep 2025 13:41:04 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/groundwater-exploration-gis/</guid>
+      
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;ABSTRACT&lt;/h1&gt;
+&lt;p&gt;A GIS-based study was carried out to assess the groundwater potentials of Ondo West Local Government Area of Southwestern Nigeria. Primary data (Landsat 8 Operational Land Imager and Shuttle Radar Topography Mission) and secondary data (geological map, soil map, and precipitation data) were utilized, leveraging on the use of Analytic Hierarchical Process (AHP) for pairwise comparison within the factors (Lineament density, Soil porosity, Lithology, Slope, Aspect, Land use and land cover classification, drainage density and Elevation).  Results show that the areas with high groundwater potential are within the central and northern parts, while the southern parts have low groundwater potentials. Using multicriteria Decision Analysis (MCDA), a groundwater potential map was produced and classified into low, moderate and high groundwater potential regions constituting 10%, 62%, and 28% of the study area respectively. This study is useful in groundwater exploration to meet one of the United Nations&amp;rsquo; Strategic Development Goals (Goal Six: Clean water and sanitation).&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>The Lost Art of Argument</title>
+      <link>http://localhost:1313/blog/the-lost-art-of-argument/</link>
+      <pubDate>Sat, 19 Apr 2025 15:10:20 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/the-lost-art-of-argument/</guid>
+      
+      <description>&lt;p&gt;Have you ever watched a conversation slide from “I don’t see it that way” to “You must be stupid” in under a minute?&lt;/p&gt;
+&lt;p&gt;Yeah, me too. It happens more often than we’d like to admit.&lt;/p&gt;
+&lt;p&gt;Someone shares an opinion—nothing outrageous, just a different take—and suddenly things spiral. Voices rise. Insults start flying. Sometimes it even escalates into something physical. I’ve seen it among friends, colleagues, strangers stuck in traffic, people waiting in line&amp;hellip; pretty much everywhere. And weirdly enough, we’ve started to act like it’s normal.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Enjoying the Run</title>
       <link>http://localhost:1313/blog/enjoying-the-process/</link>
@@ -14,7 +63,10 @@
       
       <guid>http://localhost:1313/blog/enjoying-the-process/</guid>
       
-      <description>&lt;p&gt;I remember an evening in school when I was taking a walk with a friend. As we talked about life, he said something that stuck with me: &amp;ldquo;The journey is more important than the destination.&amp;rdquo; At first, I disagreed. Like many people, I believed success was defined by reaching our targets—by getting the degree, landing the job, or hitting financial milestones. The destination seemed like the ultimate goal.&lt;/p&gt;
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/Enjoy%20the%20run.jpg&#34; width=&#34;300&#34; height=&#34;300&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I remember an evening in school when I was taking a walk with a friend. As we talked about life, he said something that stuck with me: &amp;ldquo;The journey is more important than the destination.&amp;rdquo; At first, I disagreed. Like many people, I believed success was defined by reaching our targets—by getting the degree, landing the job, or hitting financial milestones. The destination seemed like the ultimate goal.&lt;/p&gt;
 &lt;p&gt;But over time, I realized how easy it is to become so fixated on where we want to be that we completely overlook the beauty of the process. The struggles, the small wins, the unexpected detours—all of these shape our experiences and, ultimately, our growth. Yet, we often see them as mere obstacles rather than moments to appreciate.&lt;/p&gt;</description>
       
     </item>
@@ -28,6 +80,29 @@
       
       <description>&lt;p&gt;One of the most valuable things we can build in life is ourselves—our careers, our bodies, our spiritual strength, and our financial stability. Striving for growth is admirable, and being laser-focused on improvement can lead to great achievements. However, in our pursuit of progress, we often overlook a crucial factor: balance.&lt;/p&gt;
 &lt;p&gt;A moment that made this lesson crystal clear to me was an evening out with friends a few months ago. We went bowling, and to my surprise, I started strong—knocking down all the pins in two attempts. Naturally, I became fixated on getting a strike because, why not aim for perfection? But as the game progressed, I increased the speed of the ball, thinking that was the right move. To my astonishment, my scores got worse.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Balance</title>
+      <link>http://localhost:1313/blog/how-to-make-friends/</link>
+      <pubDate>Mon, 17 Feb 2025 06:49:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/how-to-make-friends/</guid>
+      
+      <description>&lt;p&gt;One of the most valuable things we can build in life is ourselves—our careers, our bodies, our spiritual strength, and our financial stability. Striving for growth is admirable, and being laser-focused on improvement can lead to great achievements. However, in our pursuit of progress, we often overlook a crucial factor: balance.&lt;/p&gt;
+&lt;p&gt;A moment that made this lesson crystal clear to me was an evening out with friends a few months ago. We went bowling, and to my surprise, I started strong—knocking down all the pins in two attempts. Naturally, I became fixated on getting a strike because, why not aim for perfection? But as the game progressed, I increased the speed of the ball, thinking that was the right move. To my astonishment, my scores got worse.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oluwafemi Adeyemo</title>
+      <link>http://localhost:1313/about-me/</link>
+      <pubDate>Fri, 24 Jan 2025 09:30:15 +0100</pubDate>
+      
+      <guid>http://localhost:1313/about-me/</guid>
+      
+      <description>&lt;p&gt;I am a solution-minded data scientist with a solid understanding of end-to-end data science best practices and love to crunch data and analyze both spatial and non-spatial data for actionable insights.  I am proficient in the use of Python, SQL, PowerBI, Microsoft Excel, Safe FME, ArcGIS, and QGIS among others. Looking for opportunities to learn and build a career by working with organizations leveraging advanced technology  and innovation that impact lives positively across a wide range of industries.&lt;/p&gt;</description>
       
     </item>
     
@@ -74,6 +149,17 @@
 &lt;p&gt;&lt;em&gt;C&amp;rsquo;mon, it’s you! Yes, You!&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;A few weeks into the year 2025, how is it going? Has any goal been achieved yet?
 Most people like myself are falling short of some of the desired habits and plans for the month. As the year started, I planned to read a chapter every day for the year – well, I have read 11 chapters this year which is far less than 23 (date of writing). This makes me wonder why consistency is an issue for most individuals.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Home_sceen</title>
+      <link>http://localhost:1313/home_sceen/</link>
+      <pubDate>Fri, 24 Jan 2025 02:14:55 +0100</pubDate>
+      
+      <guid>http://localhost:1313/home_sceen/</guid>
+      
+      <description>&lt;p&gt;This is the home page&lt;/p&gt;</description>
       
     </item>
     
