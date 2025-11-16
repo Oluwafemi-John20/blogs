@@ -1,8 +1,8 @@
 +++
 date = '2025-09-05T13:41:04+01:00'
-draft = false
 title = 'Groundwater Exploration Using GIS'
 author = "Oluwafemi Adeyemo"
+theme = "hugo-blog-awesome"
 +++
 
 # ABSTRACT 
