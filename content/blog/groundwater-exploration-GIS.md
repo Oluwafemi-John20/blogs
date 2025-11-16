@@ -38,11 +38,23 @@ A major advantage of GIS is the ability to integrate multiple data sources in th
 The weighted overlay tool in ArcMap 10.8 was used to integrate various parameters, utilising weights derived from a pairwise comparison of the Analytical Hierarchical Process (AHP). The output map shows regions with high, medium and low groundwater potential. The South-Western region and central region of the Ondo West Local Government Area have high groundwater potential, while the North-East region has low groundwater, mainly due to the urban land use class. 
 
  
-![Figure 4.13 Groundwater Potential Map](Result1.png)
+{{< figure
+src="/Result1.png"
+align=center
+title="Figure 4.13 Groundwater Potential Map"
+>}}
 
-![Figure 4.13 Groundwater Potential Map](Result2.png)
+{{< figure
+src="/Result2.png"
+align=center
+title="Figure 4.14 Groundwater Potential Map"
+>}}
 
-![Figure 4.13 Groundwater Potential Map](GWPmap.jpg)
+{{< figure
+src="/GWPmap.jpg"
+align=center
+title="Figure 4.15 Groundwater Potential Map"
+>}}
 
 Groundwater Potential Map
 
