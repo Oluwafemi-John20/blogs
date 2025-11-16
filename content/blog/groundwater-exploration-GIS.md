@@ -42,21 +42,21 @@ The weighted overlay tool in ArcMap 10.8 was used to integrate various parameter
 src="/Result1.png"
 
 align=center
-title="Figure 4.13 Groundwater Potential Map"
+title="Reclassified Map of  Contributing Parameters 1"
 >}}
 
 {{< figure
 src="/Result2.png"
 
 align=center
-title="Figure 4.14 Groundwater Potential Map"
+title="Reclassified Map of  Contributing Parameters 2"
 >}}
 
 {{< figure
 src="/GWPmap.jpg"
 
 align=center
-title="Figure 4.15 Groundwater Potential Map"
+title="Groundwater Potential Map"
 >}}
 
 Groundwater Potential Map
@@ -66,8 +66,12 @@ Groundwater Potential Map
 The groundwater potential assessment conducted in Ondo West Local Government has a very significant in community development and resource management. The use of Remote sensing and GIS techniques has proven to be very effective in estimating the potential of regions, provided parameters that contribute to groundwater accumulation using multi-criteria decision analysis (MCDA). A groundwater potential map was created using a weighted overlay approach, generating an Analytic Hierarchical Process (AHP).
 The distribution of groundwater potential zone, namely high, moderate and low, is 30.86% (291.467326 sq km), 64.37% (607.932525 sq. km) and 4.77% (45.011091 sq. km) respectively. Regions with low groundwater potential are associated with the urban land use class where different human activities such as cementation of the soil surface, and deforestation in process urbanization expose the soil to leaching and in return reduce the water holding capacity of the soil, excessive exploration of groundwater resources due to domestic and industrial needs will affect the accumulation and penetration of water into the soil.
  
-![Figure 4.13 Groundwater Potential Map](GWPchart.jpg)
-Figure 4.20: Distribution of Groundwater Potential Zones 
+{{< figure
+src="/GWPchart.jpg"
+
+align=center
+title="Distribution of Groundwater Potential Zones "
+>}}
 
 The low Groundwater potential zone also receives relatively lower rainfall than the other regions in the Ondo West Local Government Area. Regions with Moderate groundwater potential are the largest in the study area, taking 64.37% and are mainly located in the central region of the Local Government Area, receiving relatively higher rainfall than the Urban areas and covered by vegetation with higher lineament density and lower drainage density in comparison to the urban region. The region with high groundwater potential receives more precipitation than other regions and is covered by vegetation with very low drainage density and low elevation. These factors enhance groundwater accumulation and penetration of water into the groundwater systems.
 

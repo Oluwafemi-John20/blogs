@@ -79,3 +79,7 @@ ignoreLogs = ['additional-script-loading-error']
   name = "Rss"
   url = "/index.xml"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

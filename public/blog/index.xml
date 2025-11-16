@@ -14,7 +14,15 @@
       
       <guid>http://localhost:1313/blog/portfolio-management/</guid>
       
-      <description></description>
+      <description>&lt;p&gt;This Portfolio Management Dashboard provides a comprehensive view of organizational performance across key financial and operational metrics. It is designed with robust time-intelligence capabilities, enabling users to analyze trends and make informed decisions with ease.&lt;/p&gt;
+&lt;p&gt;The dashboard supports multiple dynamic time filters, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Year-to-Date (YTD)&lt;/li&gt;
+&lt;li&gt;Quarter-to-Date (QTD)&lt;/li&gt;
+&lt;li&gt;Full Year&lt;/li&gt;
+&lt;li&gt;Current Month&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With these options, users can seamlessly switch between different reporting periods, monitor performance over time, and identify patterns that support strategic planning and timely intervention.&lt;/p&gt;</description>
       
     </item>
     
