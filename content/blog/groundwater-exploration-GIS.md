@@ -40,18 +40,21 @@ The weighted overlay tool in ArcMap 10.8 was used to integrate various parameter
  
 {{< figure
 src="/Result1.png"
+
 align=center
 title="Figure 4.13 Groundwater Potential Map"
 >}}
 
 {{< figure
 src="/Result2.png"
+
 align=center
 title="Figure 4.14 Groundwater Potential Map"
 >}}
 
 {{< figure
 src="/GWPmap.jpg"
+
 align=center
 title="Figure 4.15 Groundwater Potential Map"
 >}}
