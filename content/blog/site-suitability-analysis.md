@@ -37,14 +37,14 @@ A **weighted overlay** of the above parameters produced the resulting site suita
 Results and Conclusion
 
 {{< figure
-src="/Pharmacies1.jpg"
+src="/pharmacies1.jpg"
 
 align=center
 title="Site Suitability Map"
 >}}
 
 {{< figure
-src="/Pharmacies2.jpg"
+src="/pharmacies2.jpg"
 
 align=center
 title="Most Suitable Locations"

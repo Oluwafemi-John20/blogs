@@ -53,7 +53,7 @@ title="Reclassified Map of  Contributing Parameters 2"
 >}}
 
 {{< figure
-src="/GWPmap.jpg"
+src="/updated_gwp.jpg"
 
 align=center
 title="Groundwater Potential Map"
